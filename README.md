@@ -10,6 +10,6 @@
     minimal expirience.
   
 - 📫 How to reach me?
-   📧e-mail: gusta.vargas.dasilva@gmail.com
-   📷instagram: @_gugavs
-   💼linkedin: https://www.linkedin.com/in/gustavo-vargas-da-silva-0b01bb1b2/ 
+   - 📧e-mail: gusta.vargas.dasilva@gmail.com
+   - 📷instagram: @_gugavs
+   - 💼linkedin: https://www.linkedin.com/in/gustavo-vargas-da-silva-0b01bb1b2/ 
