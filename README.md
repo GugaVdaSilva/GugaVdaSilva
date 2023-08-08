@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GugaVdaSilva, a Electrical Engineering studant at IFSC-Itajaí looking for a job at Data Analysis,
+- 👋 Hi, I’m @GugaVdaSilva, a Electrical Engineering student at IFSC-Itajaí looking for a job at Data Analysis,
     i just started studying programming for later implement on data stuff. I'm brazilian by the way 🇧🇷
   
 - 👀 I’m interested in Data Analysis, but i'm really new to the thing.
